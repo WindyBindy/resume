@@ -1,0 +1,22 @@
+.header {
+	border: 1px solid #fff;
+	background: #000;
+	width: 99%;
+	margin: 2px;
+	height: 33px;
+	display: flex;
+	align-items: center;
+	&__list {
+		display: flex;
+		gap: 16px;
+	}
+	&__link {
+		color: #fff;
+		text-align: center;
+		font-size: 16px;
+		font-style: normal;
+		font-weight: 700;
+		line-height: normal;
+		letter-spacing: -0.32px;
+	}
+}

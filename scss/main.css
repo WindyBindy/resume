@@ -1,1 +1,108 @@
-/*# sourceMappingURL=main.css.map */
+@font-face {
+  font-family: "Thabit";
+  src: url(./Thabit.ttf);
+}
+body {
+  font-family: "Source Code Pro", monospace;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container {
+  margin-left: 18px;
+  margin-right: 18px;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+* {
+  margin: 0;
+}
+
+.header {
+  border: 1px solid #fff;
+  background: #000;
+  width: 99%;
+  margin: 2px;
+  height: 33px;
+  display: flex;
+  align-items: center;
+}
+.header__list {
+  display: flex;
+  gap: 16px;
+}
+.header__link {
+  color: #fff;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.32px;
+}
+
+@font-face {
+  font-family: "Thabit";
+  src: url(./Thabit.ttf);
+}
+body {
+  font-family: "Source Code Pro", monospace;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container {
+  margin-left: 18px;
+  margin-right: 18px;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+* {
+  margin: 0;
+}/*# sourceMappingURL=main.css.map */
